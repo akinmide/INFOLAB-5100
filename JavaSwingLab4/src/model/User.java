@@ -19,6 +19,7 @@ public class User {
     private int age;
     private String hobbies;
     private ImageIcon picture;
+    
 
     public ImageIcon getPicture() {
         return picture;
